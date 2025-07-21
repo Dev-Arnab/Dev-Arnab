@@ -1,5 +1,5 @@
 
-# Hi there, I'm Dev Arnab 👋
+# Hi there, I'm Dev 👋
 
 **`Computer Science + Data Science @ Michigan State University`**  
 **Aspiring Researcher | AI/ML Enthusiast | Global Learner | Builder with Purpose**
@@ -59,10 +59,26 @@ I'm an **Undergraduate Learning Assistant** for CMSE 201 and MTH 116, where I le
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:arnabdev@msu.edu"><img src="https://img.shields.io/badge/Email-arnabdev@msu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/dev-arnab/"><img src="https://img.shields.io/badge/LinkedIn-dev--arnab-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Dev-Arnab"><img src="https://img.shields.io/badge/GitHub-Dev--Arnab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:arnabdev@msu.edu">
+    <img src="https://img.shields.io/badge/Email-arnabdev@msu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email">
+  </a>
+  <a href="mailto:your.devjyotighosharnab@gmail.com">
+    <img src="https://img.shields.io/badge/Alt Email-devjyotighosharnab@gmail.com-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Alternate Email">
+  </a>
+  <a href="https://www.linkedin.com/in/dev-arnab/">
+    <img src="https://img.shields.io/badge/LinkedIn-dev--arnab-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Dev-Arnab">
+    <img src="https://img.shields.io/badge/GitHub-Dev--Arnab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.facebook.com/Arnab1891">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/diabolus_amor">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
+
 
 ---
 
