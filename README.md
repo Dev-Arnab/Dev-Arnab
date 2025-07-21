@@ -23,6 +23,9 @@ Built and trained a custom CNN with TensorFlow/Keras on the MNIST dataset. Achie
 🌱 **Invasive Species Simulation**  
 Simulated Arctic ecosystems to study extinction risk from invasive king crabs. Ran 5,000+ simulations with >99% ML model accuracy in predicting outcomes.
 
+🏢 **Pacific Tax Solutions Inc**  
+A interactive website for a small business startupfor tax services
+
 ☕ **On My Grind**  
 A fun React + JS app (like Wordle!) for quizzing Starbucks drink recipes. Real data. Real fun. Real coffee.
 
@@ -38,7 +41,7 @@ I'm an **Undergraduate Learning Assistant** for CMSE 201 and MTH 116, where I le
 
 - 🎓 Studied at the **London School of Economics** through MSU Study Abroad  
 - 🧠 Molecular Frontiers Inquiry Prize Winner (aka the “Kid’s Nobel”)  
-- 🌱 National Champion – **Climate Science Olympiad**  
+- 🌱 National Champion – **Chemistry Olympiad** **Climate Science Olympiad**  
 - ✊ Raised awareness & took action during the **Bangladesh student protests and floods**  
 - 🏆 Honors: Dean’s List, Michigander Scholar, Google DSC, MSU AI Club, CodePath, Break Through Tech
 
@@ -47,8 +50,7 @@ I'm an **Undergraduate Learning Assistant** for CMSE 201 and MTH 116, where I le
 ## 🛠 Skills & Tools
 
 `Python` `C/C++` `TensorFlow` `scikit-learn` `React` `JavaScript` `Arduino`  
-`R` `pandas` `networkx` `matplotlib` `HTML/CSS` `Data Visualization`  
-`Research Writing` `Mentoring` `Project Leadership`
+`R` `pandas` `networkx` `matplotlib` `HTML/CSS`
 
 ---
 
@@ -60,10 +62,3 @@ I'm an **Undergraduate Learning Assistant** for CMSE 201 and MTH 116, where I le
 
 ---
 
-## 📌 Pinned Repos (Suggested)
-
-You can pin these in your GitHub profile for best visibility:
-- `handwritten-digit-cnn`
-- `invasive-species-simulation`
-- `on-my-grind`
-- `idseq-protein-analysis`
