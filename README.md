@@ -51,7 +51,6 @@ I'm an **Undergraduate Learning Assistant** for CMSE 201 and MTH 116, where I le
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arnab&show_icons=true&theme=github_dark&hide=contribs&count_private=true" alt="Dev Arnab's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arnab&theme=github-dark-blue" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
