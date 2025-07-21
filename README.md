@@ -47,18 +47,22 @@ I'm an **Undergraduate Learning Assistant** for CMSE 201 and MTH 116, where I le
 
 ---
 
-## 🛠 Skills & Tools
+## 📊 GitHub Stats
 
-`Python` `C/C++` `TensorFlow` `scikit-learn` `React` `JavaScript` `Arduino`  
-`R` `pandas` `networkx` `matplotlib` `HTML/CSS`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arnab&show_icons=true&theme=github_dark&hide=contribs&count_private=true" alt="Dev Arnab's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arnab&theme=github-dark-blue" alt="GitHub Streak" width="48%" />
+</p>
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Contact Me
 
-📧 arnabdev@msu.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/dev-arnab/)  
-🌐 Always building. Always learning. Always rooted in purpose.
+<p align="center">
+  <a href="mailto:arnabdev@msu.edu"><img src="https://img.shields.io/badge/Email-arnabdev@msu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/dev-arnab/"><img src="https://img.shields.io/badge/LinkedIn-dev--arnab-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Dev-Arnab"><img src="https://img.shields.io/badge/GitHub-Dev--Arnab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
