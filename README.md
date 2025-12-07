@@ -17,17 +17,21 @@ I'm working on evolutionary protein function prediction using deep learning and 
 
 ## 💻 Featured Projects
 
-🧠 **Handwritten Digit Recognition**  
+☕ **Foundation Models for Satellite Image Intelligence**  
+Explored the use of open-source pre-trained computer vision models for classifying vessels and icebergs in synthetic aperture radar (SAR) satellite imagery
+
+🧠 **Neural Decoding of Face Identity and Orientation in Primate Anterior Medial Cortex**  
+Implemented machine learning decoding techniques to analyze electrophysiological data from the Anterior Medial (AM) face patch of two macaque monkeys, Bert and Lupo
+
+✍️ **Handwritten Digit Recognition**  
 Built and trained a custom CNN with TensorFlow/Keras on the MNIST dataset. Achieved 98%+ accuracy in under 1 epoch.
 
 🌱 **Invasive Species Simulation**  
 Simulated Arctic ecosystems to study extinction risk from invasive king crabs. Ran 5,000+ simulations with >99% ML model accuracy in predicting outcomes.
 
 🏢 **Pacific Tax Solutions Inc**  
-A interactive website for a small business startupfor tax services
+An interactive website for a small business startup for tax services
 
-☕ **On My Grind**  
-A fun React + JS app (like Wordle!) for quizzing Starbucks drink recipes. Real data. Real fun. Real coffee.
 
 ---
 
