@@ -17,38 +17,21 @@ I'm working on evolutionary protein function prediction using deep learning and 
 
 ## 💻 Featured Projects
 
-☕ [Foundation Models for Satellite Image Intelligence](https://github.com/zainakhalil/Ursa-Space-1A.git)  
+☕ **[Foundation Models for Satellite Image Intelligence](https://github.com/zainakhalil/Ursa-Space-1A.git)**
 Explored the use of open-source pre-trained computer vision models for classifying vessels and icebergs in synthetic aperture radar (SAR) satellite imagery
 
-🧠 [Neural Decoding of Face Identity and Orientation in Primate Anterior Medial Cortex](https://github.com/Dev-Arnab/Neural-Decoding-of-Face-Identity-and-Orientation.git)  
+🧠 **[Neural Decoding of Face Identity and Orientation in Primate Anterior Medial Cortex](https://github.com/Dev-Arnab/Neural-Decoding-of-Face-Identity-and-Orientation.git)**
 Implemented machine learning decoding techniques to analyze electrophysiological data from the Anterior Medial (AM) face patch of two macaque monkeys, Bert and Lupo
 
-✍️ [Handwritten Digit Recognition](https://github.com/Dev-Arnab/Handwritten-Digit-Recognition.git)  
+✍️ **[Handwritten Digit Recognition](https://github.com/Dev-Arnab/Handwritten-Digit-Recognition.git)**
 Built and trained a custom CNN with TensorFlow/Keras on the MNIST dataset. Achieved 98%+ accuracy in under 1 epoch.
 
-🌱 [Invasive Species Simulation](https://github.com/Dev-Arnab/invasive-species-simulation.git)  
+🌱 **[Invasive Species Simulation](https://github.com/Dev-Arnab/invasive-species-simulation.git)** 
 Simulated Arctic ecosystems to study extinction risk from invasive king crabs. Ran 5,000+ simulations with >99% ML model accuracy in predicting outcomes.
 
-🏢 [Pacific Tax Solutions Inc](https://github.com/Dev-Arnab/Pacific-Tax-Solutions-Inc.git)  
+🏢 **[Pacific Tax Solutions Inc](https://github.com/Dev-Arnab/Pacific-Tax-Solutions-Inc.git)**
 An interactive website for a small business startup for tax services
 
-☕ **Foundation Models for Satellite Image Intelligence**  (https://github.com/zainakhalil/Ursa-Space-1A.git)
-Explored the use of open-source pre-trained computer vision models for classifying vessels and icebergs in synthetic aperture radar (SAR) satellite imagery
-
-🧠 **Neural Decoding of Face Identity and Orientation in Primate Anterior Medial Cortex**  (https://github.com/Dev-Arnab/Neural-Decoding-of-Face-Identity-and-Orientation.git)
-Implemented machine learning decoding techniques to analyze electrophysiological data from the Anterior Medial (AM) face patch of two macaque monkeys, Bert and Lupo
-
-✍️ **Handwritten Digit Recognition**  (https://github.com/Dev-Arnab/Handwritten-Digit-Recognition.git)
-Built and trained a custom CNN with TensorFlow/Keras on the MNIST dataset. Achieved 98%+ accuracy in under 1 epoch.
-
-🌱 **Invasive Species Simulation**  (https://github.com/Dev-Arnab/invasive-species-simulation.git)
-Simulated Arctic ecosystems to study extinction risk from invasive king crabs. Ran 5,000+ simulations with >99% ML model accuracy in predicting outcomes.
-
-🏢 **Pacific Tax Solutions Inc**  (https://github.com/Dev-Arnab/Pacific-Tax-Solutions-Inc.git)
-An interactive website for a small business startup for tax services
-
-
----
 
 ## 👨‍🏫 Teaching & Mentorship
 
