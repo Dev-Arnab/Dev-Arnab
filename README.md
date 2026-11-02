@@ -8,40 +8,53 @@ Welcome to my GitHub! I'm a passionate Bangladeshi undergraduate student at Mich
 
 ---
 
-## 🔬 Research & Experience
+## 🔬 Research
 
-My work spans computational biology, satellite remote sensing, and research computing. I'm interested in building computational methods that help us understand biological systems and make scientific data easier to use.
+> 🧬 Computational biology &nbsp; · &nbsp; 🌾 Remote sensing &nbsp; · &nbsp; 🐄 Animal health
 
-**Computational Biology @ The Adami Lab**
+### 🧬 Protein Function & Evolution
+
+**The Adami Lab · Michigan State University**
 
 I study protein function and mutation effects using evolutionary information and **IDSeq (Information Decomposition for Sequences)**. My YAP65 work used **50,000+ protein sequences**, achieved **Spearman correlations up to 0.80**, and reduced pipeline runtime by **75%** through multithreading. I'm extending this work across protein and tRNA families using scalable evaluation pipelines on MSU's HPCC.
 
-**Agricultural Remote Sensing @ Basso Lab / SEE-Insight**
+### 🌾 Agricultural Remote Sensing
+
+**Basso Lab / SEE-Insight · Michigan State University**
 
 With Ryan Jayne and MSU collaborators, I've worked with **Sentinel-1 SAR, Sentinel-2 imagery, and learned satellite features** to study crop yield and yield stability across Michigan fields. I also co-develop [**sarpanel**](https://github.com/Dev-Arnab/sarpanel), a Python package that turns Sentinel-1 scenes into polygon-level tables with backscatter, acquisition geometry, and speckle statistics.
 
-**Animal Health & Machine Learning @ DRIVE Lab**
+### 🐄 Animal Health & Machine Learning
+
+**DRIVE Lab · Michigan State University**
 
 I work with **Dr. Zelmar Rodriguez** on predicting postpartum hyperketonemia in dairy cows using prepartum metabolic measurements and herd records. I compare feature groups, machine-learning algorithms, and class-imbalance strategies to understand how routinely collected data can support disease-risk screening.
 
-**Research Computing @ MSU Institute for Cyber-Enabled Research (ICER)**
+### 🔎 Materials Characterization
 
-I support the **Bioinformatics Core and HPCC** through software installation, researcher onboarding, and documentation. My work also includes documenting local large language model workflows so researchers can keep sensitive analyses on-premises.
-
-**Break Through Tech AI Fellow | Ursa Space Systems Project**
-
-Through Cornell's Break Through Tech fellowship, I worked on [**Foundation Models for Satellite Image Intelligence**](https://github.com/zainakhalil/Ursa-Space-1A), exploring vessel and iceberg classification in SAR imagery. My contributions included **data preprocessing, exploratory data analysis, and PCA** to support the team's evaluation of pretrained vision-model embeddings.
-
-**Earlier Materials Research**
+**Earlier Research · SEM & EDS**
 
 I also investigated the composition and microstructure of amorphous and crystalline materials using **scanning electron microscopy (SEM) and energy-dispersive spectroscopy (EDS)**, presenting the work at MSU's undergraduate research forum.
 
 ---
 
-## 💻 Featured Projects
+## 💼 Work Experience
 
-☕ [Foundation Models for Satellite Image Intelligence](https://github.com/zainakhalil/Ursa-Space-1A.git)  
-Explored the use of open-source pre-trained computer vision models for classifying vessels and icebergs in synthetic aperture radar (SAR) satellite imagery
+### 🖥️ Research Computing Internship
+
+**Institute for Cyber-Enabled Research (ICER) · Michigan State University**
+
+I support the **Bioinformatics Core and HPCC** through software installation, researcher onboarding, and documentation. My work also includes documenting local large language model workflows so researchers can keep sensitive analyses on-premises.
+
+### 🛰️ AI Fellowship & Satellite Imagery
+
+**Break Through Tech · Cornell University | Ursa Space Systems Project**
+
+Through Cornell's Break Through Tech fellowship, I worked on **Foundation Models for Satellite Image Intelligence**, exploring vessel and iceberg classification in SAR imagery. My contributions included **data preprocessing, exploratory data analysis, and PCA** to support the team's evaluation of pretrained vision-model embeddings.
+
+---
+
+## 💻 Featured Projects
 
 🧠 [Neural Decoding of Face Identity and Orientation in Primate Anterior Medial Cortex](https://github.com/Dev-Arnab/Neural-Decoding-of-Face-Identity-and-Orientation.git)  
 Implemented machine learning decoding techniques to analyze electrophysiological data from the Anterior Medial (AM) face patch of two macaque monkeys, Bert and Lupo
