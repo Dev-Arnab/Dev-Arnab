@@ -8,10 +8,33 @@ Welcome to my GitHub! I'm a passionate Bangladeshi undergraduate student at Mich
 
 ---
 
-## 🔬 Current Research
+## 🔬 Research & Experience
 
-**Undergraduate Researcher @ The Adami Lab**  
-I'm working on evolutionary protein function prediction using deep learning and information theory. Recently, I trained models (IDSeq) on over **50,000 YAP65 protein sequences**, achieving **Spearman correlations up to 0.80**, and optimized the model pipeline with **multi-threading for 75% faster performance**.
+My work spans computational biology, satellite remote sensing, and research computing. I'm interested in building computational methods that help us understand biological systems and make scientific data easier to use.
+
+**Computational Biology @ The Adami Lab**
+
+I study protein function and mutation effects using evolutionary information and **IDSeq (Information Decomposition for Sequences)**. My YAP65 work used **50,000+ protein sequences**, achieved **Spearman correlations up to 0.80**, and reduced pipeline runtime by **75%** through multithreading. I'm extending this work across protein and tRNA families using scalable evaluation pipelines on MSU's HPCC.
+
+**Agricultural Remote Sensing @ Basso Lab / SEE-Insight**
+
+With Ryan Jayne and MSU collaborators, I've worked with **Sentinel-1 SAR, Sentinel-2 imagery, and learned satellite features** to study crop yield and yield stability across Michigan fields. I also co-develop [**sarpanel**](https://github.com/Dev-Arnab/sarpanel), a Python package that turns Sentinel-1 scenes into polygon-level tables with backscatter, acquisition geometry, and speckle statistics.
+
+**Animal Health & Machine Learning @ DRIVE Lab**
+
+I work with **Dr. Zelmar Rodriguez** on predicting postpartum hyperketonemia in dairy cows using prepartum metabolic measurements and herd records. I compare feature groups, machine-learning algorithms, and class-imbalance strategies to understand how routinely collected data can support disease-risk screening.
+
+**Research Computing @ MSU Institute for Cyber-Enabled Research (ICER)**
+
+I support the **Bioinformatics Core and HPCC** through software installation, researcher onboarding, and documentation. My work also includes documenting local large language model workflows so researchers can keep sensitive analyses on-premises.
+
+**Break Through Tech AI Fellow | Ursa Space Systems Project**
+
+Through Cornell's Break Through Tech fellowship, I worked on [**Foundation Models for Satellite Image Intelligence**](https://github.com/zainakhalil/Ursa-Space-1A), exploring vessel and iceberg classification in SAR imagery. My contributions included **data preprocessing, exploratory data analysis, and PCA** to support the team's evaluation of pretrained vision-model embeddings.
+
+**Earlier Materials Research**
+
+I also investigated the composition and microstructure of amorphous and crystalline materials using **scanning electron microscopy (SEM) and energy-dispersive spectroscopy (EDS)**, presenting the work at MSU's undergraduate research forum.
 
 ---
 
