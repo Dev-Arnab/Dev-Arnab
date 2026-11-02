@@ -16,7 +16,14 @@ Welcome to my GitHub! I'm a passionate Bangladeshi undergraduate student at Mich
 
 **The Adami Lab · Michigan State University**
 
-I study protein function and mutation effects using evolutionary information and **IDSeq (Information Decomposition for Sequences)**. My YAP65 work used **50,000+ protein sequences**, achieved **Spearman correlations up to 0.80**, and reduced pipeline runtime by **75%** through multithreading. I'm extending this work across protein and tRNA families using scalable evaluation pipelines on MSU's HPCC.
+I build and evaluate computational pipelines for understanding **sequence–function relationships, mutation effects, and evolutionary constraints**, using information theory and **IDSeq (Information Decomposition for Sequences)**. My work spans **10+ protein and tRNA families** and **100,000+ homologous sequences**.
+
+My research includes:
+
+- 🌳 **Evolutionary structure:** ancestry-aware sequence reweighting to reduce phylogenetic redundancy, alongside sequence-clustering and subfamily analyses.
+- 🧩 **Model development and evaluation:** comparing first- and higher-order sequence models, scoring formulations, similarity thresholds, and pseudocount settings.
+- 📊 **Experimental benchmarks:** evaluating mutation-effect predictions against deep mutational scanning measurements and published methods such as **DeepSequence**.
+- ⚙️ **Scalable scientific computing:** automating large experiment sweeps with Python, multithreading, and **Slurm job arrays on MSU's HPCC**, with workflows for collecting and comparing results.
 
 ### 🌾 Agricultural Remote Sensing
 
