@@ -116,8 +116,8 @@ I'm an **Undergraduate Learning Assistant** for CMSE 201 and MTH 116, where I le
     <img src="https://img.shields.io/badge/GitHub-Dev--Arnab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://scholar.google.com/citations?user=tclN4vIAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-tclN4vIAAAAJ-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
-  </a>  
+    <img src="https://img.shields.io/badge/Google%20Scholar-Dev%20Jyoti%20Ghosh%20Arnab-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a> 
   <a href="https://www.facebook.com/Arnab1891">
     <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
